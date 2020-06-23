@@ -1,4 +1,4 @@
-module github.com/ipfs-shipyard/gomobile-ipfs/go
+module github.com/skysbird/gomobile-ipfs/go
 
 go 1.14
 
